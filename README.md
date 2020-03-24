@@ -1,4 +1,4 @@
 # MyFirstProject
-<h1>Selenium<h1>
-   <p1>It is an Automation tool to automate web applications.<p1>
+<h3>Selenium<h3>
+   <p4>It is an Automation tool to automate web applications.<p4>
      
